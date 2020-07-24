@@ -12,7 +12,7 @@ Build requirements:
 ## Build and run
 Get source files
 
-    git clone https://github.com/bujupah/reporter
+    git clone https://github.com/Bujupah/grafana-pdf-reporter
 Build and install `reporter`
     
     pub get
