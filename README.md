@@ -1,5 +1,7 @@
 # Grafana Reporter
 Generate faster PDF reports from grafana with a lightweight http server made with dart lang.
+![Alt Text](https://raw.githubusercontent.com/Bujupah/grafana-pdf-reporter/master/demo/demo.gif)
+
 
 ## Requirements
 Runtime requirements: 
