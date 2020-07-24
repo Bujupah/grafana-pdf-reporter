@@ -1,0 +1,17 @@
+name: reporter
+description: A simple http service that generates *.PDF reports from Grafana dashboards and sends them via mail (gmail | hotmail | yahoo | qq | mailgun).
+version: 0.0.1
+author: Khalil Mejdi <khalil.mejdi97@gmail.com>
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  aqueduct: 4.0.0-b1
+  image: ^2.1.14
+  mailer: ^3.0.4
+  dio: ^3.0.9
+  pdf: ^1.9.0
+
+dependency_overrides:
+  postgres: ^2.1.1
